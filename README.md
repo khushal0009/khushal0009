@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal0009&label=Profile%20views&color=0e75b6&style=flat" alt="khushal0009" /> </p>
 
-- 🔭 I’m currently working on **Brwoser Projects**
+- 🔭 I’m currently working on **Food App**
 
 - 🌱 I’m currently learning **React**
 
