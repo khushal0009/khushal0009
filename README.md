@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/premium-vector/web-ui-ux-design-web-development-concept-web-design-application-design-coding-web-building-blue-background-3d-vector-illustration_145666-1495.jpg?w=740)]
 
 <h1 align="center">Hi 👋, I'm Khushal issrani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Food App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.JS**
 
 - 💬 Ask me about **Frontend ,MERN**
 
-- 📫 How to reach me **khushalisrani999@gmail.com**
+- 📫 How to reach me **khushalissrani9@gmail.com**
 
 - ⚡ Fun fact **I am a Tech Enthusiast.**
 
